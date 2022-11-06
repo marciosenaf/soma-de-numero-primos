@@ -3,7 +3,7 @@
 
 # Sobre o Projeto
 
-Este Projeto e uma aplicacao back-end, no qual simula a requisicao e resposta do server para o client
+Este Projeto e uma aplicacao front-end, no qual possui o cauculo em javascript q mostra todos os numeros primos ate 1000 e a soma entre eles 
 
 ## Layout 
 ![Web](https://github.com/marciosenaf/soma-de-numero-primos/blob/main/img/result1.readme.png)
