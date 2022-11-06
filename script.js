@@ -1,4 +1,4 @@
-//todos numero primos
+//todos numero primos de 0 a 1000
 
 // numbers(1000);
     
@@ -18,7 +18,7 @@
 // }
 
 
-//todos os numeros primos somados
+//todos os numeros primos somados de 0 a 1000
 console.log(numbers(1000));
 
 function numbers(limit){
